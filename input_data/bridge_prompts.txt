@@ -1,0 +1,2 @@
+bridge {usd_amount}$ in ETH from {from_chain} to {to_chain}
+bridge {token_amount} ETH from {from_chain} to {to_chain}

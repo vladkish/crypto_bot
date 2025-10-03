@@ -1,0 +1,4 @@
+swap {usd_amount}$ in {from_token} to {to_token} in {chain_name}
+swap {token_amount} {from_token} to {to_token} in {chain_name}
+i want to swap {usd_amount}$ in {from_token} to {to_token} in {chain_name}
+please make a swap from {token_amount} {from_token} to {to_token} in {chain_name}

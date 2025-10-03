@@ -1,0 +1,3 @@
+https://log:pass@ip:port
+http://log:pass@ip:port
+log:pass@ip:port
